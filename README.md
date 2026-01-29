@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Computer+Engineering+Student;Full-Stack+Developer;AI+%26+ML+Enthusiast;Learning+Every+Day!" />
 
 <!--
 **patelmanan112/patelmanan112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
