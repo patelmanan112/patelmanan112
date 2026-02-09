@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Pal Pathak
+# 👋 Hello World, I'm Manan Patel
 
 <!-- HERO SECTION START -->
 <div align="center">
@@ -13,22 +13,15 @@
 ## 🚀 About Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <p>
-          I am a <b>passionate developer</b> dedicated to building <b>stunning</b> and <b>high-performance</b> applications. 
-          My journey in tech is driven by curiosity and a desire to solve complex problems through elegant code.
-        </p>
-        <ul>
-          <li>🔭 Improving my skills in <b>Next.js & Cloud Architecture</b></li>
-          <li>🌱 Exploring the world of <b>AI and Machine Learning</b></li>
-          <li>💬 Ask me about <b>Web Dev, UI/UX, or Space</b></li>
-          <li>⚡ Fun fact: I drink a lot of <b>Coffee ☕</b></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  I'm Manan Patel, a Front-End Developer who loves crafting clean UI and smooth user experiences.
+
+I enjoy working with React and modern JavaScript, and I’m constantly learning new tools and best practices to improve my code.
+
+🔹 Tech I use: React, JS, HTML, CSS  
+🔹 Interests: UI/UX, performance optimization, clean code  
+🔹 Goal: Become a strong full-stack developer  
+
+Let’s build something cool 🚀
 </div>
 <!-- ABOUT ME END -->
 
