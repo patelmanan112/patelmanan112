@@ -4,9 +4,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Explorer;Open+Source+Enthusiast" alt="Typing SVG" />
   
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=PalDPathak404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F2FF&title_color=00F2FF&text_color=E0E0E0" alt="GitHub Stats" />
 </div>
 <!-- HERO SECTION END -->
 
@@ -64,7 +61,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PalDPathak404&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalDPathak404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=E0E0E0" alt="Top Languages" />
 </div>
 <!-- GITHUB STATS END -->
 
