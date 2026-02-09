@@ -59,7 +59,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PalDPathak404&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelmanan112&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF" alt="GitHub Streak" />
   <br/><br/>
 </div>
 <!-- GITHUB STATS END -->
