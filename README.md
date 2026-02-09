@@ -91,7 +91,7 @@ Let’s build something cool 🚀
   <a href="mailto:manan.patel.cg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 <div>
-  <a href= "https://portfolio-mananpatel.netlify.app/"/>Portfolio</a>a>
+  <a href= "https://portfolio-mananpatel.netlify.app/"/>Portfolio</a>
 </div>
 <!-- CONTACT END -->
 
