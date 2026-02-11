@@ -72,7 +72,8 @@ Let’s build something cool 🚀
 <hr/>
 
 <!-- SNAKE ANIMATION START -->
-## 🐍 My Contribution Snake
+## 🐍 My Contribution Snake![snake gif](https://github.com/patelmanan112/patelmanan112/blob/output/github-contribution-grid-snake.svg)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PalDPathak404/PalDPathak404/output/github-contribution-grid-snake-dark.svg">
