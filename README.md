@@ -68,12 +68,12 @@ const manan = {
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patelmanan112&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=d946ef&icon_color=a855f7&text_color=e2e8f0&ring_color=6366f1" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmanan112&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=d946ef&text_color=e2e8f0" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patelmanan112&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=d946ef&icon_color=a855f7&text_color=e2e8f0&ring_color=6366f1&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmanan112&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=d946ef&text_color=e2e8f0&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patelmanan112&theme=radical&hide_border=true&background=0d0d0d&ring=d946ef&fire=a855f7&currStreakLabel=6366f1" />
+<img src="https://streak-stats.demolab.com/?user=patelmanan112&theme=radical&hide_border=true&background=0d0d0d&ring=d946ef&fire=a855f7&currStreakLabel=6366f1" />
 
 <br/><br/>
 
