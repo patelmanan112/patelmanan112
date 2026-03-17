@@ -17,8 +17,6 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### Hi, I'm Manan 👋
@@ -41,8 +39,6 @@ and creativity into beautiful, functional web experiences.
 ✦ &nbsp; *"The details are not the details — they make the design."*
 
 ---
-
-</div>
 
 <!-- Tech stack section -->
 ### ✦ tools of the craft ✦
@@ -70,7 +66,6 @@ and creativity into beautiful, functional web experiences.
 
 <br/>
 
-<!-- Artistic divider -->
 ```
   ◈ ─────────────────────────────── ◈
 ```
@@ -90,6 +85,18 @@ and creativity into beautiful, functional web experiences.
 
 <!-- GitHub activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=patelmanan112&theme=redical&bg_color=0d0d0d&color=d946ef&line=a855f7&point=ffffff&hide_border=true" />
+
+<br/>
+
+```
+  ◈ ─────────────────────────────── ◈
+```
+
+### 🏆 trophies ✦
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=patelmanan112&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
