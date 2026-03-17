@@ -19,18 +19,28 @@
 
 <div align="center">
 
-🎨 I'm **Manan Patel**, a Frontend Developer who believes great interfaces are felt, not just seen.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I specialize in crafting **responsive, accessible, and visually compelling** web experiences —  
-blending clean code with thoughtful design to build products people actually enjoy using.
+### Hi, I'm Manan 👋
 
-With a deep love for **UI/UX**, **design systems**, and **creative coding**, I bridge the gap  
-between what designers dream and what browsers render.
+A **Frontend Developer** based in India 🇮🇳 who turns caffeine  
+and creativity into beautiful, functional web experiences.
 
-When I'm not pushing pixels, I'm exploring **digital art**, obsessing over **typography**,  
-or grinding **LeetCode** one problem at a time.
+<br/>
 
-> *"The details are not the details — they make the design."* — Charles Eames
+🎨 &nbsp; I craft **interfaces** that users *feel*, not just click  
+⚡ &nbsp; I obsess over **performance**, **accessibility** & **clean code**  
+🧠 &nbsp; I think in **components**, dream in **design systems**  
+🌱 &nbsp; Currently diving deep into **Three.js** & **Web Animations**  
+🎯 &nbsp; Always chasing that perfect **pixel-to-purpose** ratio  
+
+<br/>
+
+---
+
+✦ &nbsp; *"The details are not the details — they make the design."*
+
+---
 
 </div>
 
