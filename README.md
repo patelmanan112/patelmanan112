@@ -15,23 +15,24 @@
   ◈ ─────────────────────────────── ◈
 ```
 
-### ✦ about me ✦
-
-</div>
-
-```js
-const manan = {
-  role:       "Frontend Developer",
-  passion:    ["UI/UX Design", "Creative Coding", "Visual Storytelling"],
-  philosophy: "Every pixel is a brushstroke — make it count.",
-  currently:  "building interfaces that feel alive ✨",
-  hobbies:    ["digital art", "typography", "design systems"],
-};
-```
+## 👨‍💻 About Me
 
 <div align="center">
 
-<br/>
+🎨 I'm **Manan Patel**, a Frontend Developer who believes great interfaces are felt, not just seen.
+
+I specialize in crafting **responsive, accessible, and visually compelling** web experiences —  
+blending clean code with thoughtful design to build products people actually enjoy using.
+
+With a deep love for **UI/UX**, **design systems**, and **creative coding**, I bridge the gap  
+between what designers dream and what browsers render.
+
+When I'm not pushing pixels, I'm exploring **digital art**, obsessing over **typography**,  
+or grinding **LeetCode** one problem at a time.
+
+> *"The details are not the details — they make the design."* — Charles Eames
+
+</div>
 
 <!-- Tech stack section -->
 ### ✦ tools of the craft ✦
