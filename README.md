@@ -92,18 +92,6 @@ and creativity into beautiful, functional web experiences.
   ◈ ─────────────────────────────── ◈
 ```
 
-### 🏆 trophies ✦
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=patelmanan112&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-```
-  ◈ ─────────────────────────────── ◈
-```
-
 ### ✦ leetcode grind ✦
 
 <br/>
