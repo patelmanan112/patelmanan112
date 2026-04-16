@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-patelmanan112.dev-7C3AED?style=flat-square&labelColor=1a1a2e)](https://manan-patel-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Manan%20Patel-7C3AED?style=flat-square&labelColor=1a1a2e)](https://manan-patel-portfolio.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manan%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/manan-patel-557535390/)
 &nbsp;
@@ -16,7 +16,7 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-manan01127-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/manan01127/)
 &nbsp;
-
+[![Resume](https://img.shields.io/badge/%F0%9F%8C%90%20Resume-Manan%20Patel-7C3AED?style=flat-square&labelColor=1a1a2e)](https://manan-patel-portfolio.vercel.app/)
 
 </div>
 
