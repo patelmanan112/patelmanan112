@@ -2,11 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Manan%20Patel&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Frontend%20Developer%20%E2%80%94%20Crafting%20Digital%20Experiences&descAlignY=62&descSize=16&fontStyle=bold" />
 
-</div>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+as+good+as+they+look+%E2%9C%A8;React+%7C+Next.js+%7C+TypeScript+%7C+Three.js+%7C+GSAP;Open+to+collaborate+on+ambitious+frontend+projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+as+good+as+they+look+%E2%9C%A8;React+%7C+Next.js+%7C+TypeScript+%7C+Three.js+%7C+GSAP;Open+to+collaborate+on+ambitious+frontend+projects+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -19,12 +17,16 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-manan01127-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/manan01127/)
 &nbsp;
 [![Dribbble](https://img.shields.io/badge/Dribbble-patelmanan112-EA4C89?style=flat-square&logo=dribbble&logoColor=white&labelColor=EA4C89)](https://dribbble.com/patelmanan112)
+&nbsp;
+[![CodePen](https://img.shields.io/badge/CodePen-patelmanan112-000000?style=flat-square&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/patelmanan112)
 
 </div>
 
 ---
 
 ## 👋 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding animation" />
 
 ```ts
 const manan = {
@@ -38,10 +40,12 @@ const manan = {
 ```
 
 - 🎨 &nbsp; I design **with code** — performance and aesthetics are never a trade-off
-- ⚡ &nbsp; Obsessed with **micro-interactions**, **component architecture** and **clean APIs**
+- ⚡ &nbsp; Obsessed with **micro-interactions**, **component architecture** & **clean APIs**
 - 🧩 &nbsp; I think in **systems**: tokens, scales, patterns, and intentional constraints
 - 🌱 &nbsp; Learning: **Three.js**, **WebGL**, **Web Animations API**
 - 💬 &nbsp; Ask me about **React**, **Next.js**, **Tailwind**, **Framer Motion**, or **GSAP**
+
+<br clear="right"/>
 
 ---
 
@@ -109,6 +113,61 @@ const manan = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=patelmanan112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patelmanan112/patelmanan112/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patelmanan112/patelmanan112/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/patelmanan112/patelmanan112/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ <b>Click here — How to activate the snake animation</b></summary>
+<br/>
+
+**Step 1** — In your profile repo `patelmanan112/patelmanan112`, create this file:
+`.github/workflows/snake.yml`
+
+**Step 2** — Paste this inside:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: patelmanan112
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3** — Go to **Actions tab → Generate Snake → Run workflow** ✅
+
+The snake will now auto-generate every day at midnight!
+
+</details>
 
 ---
 
