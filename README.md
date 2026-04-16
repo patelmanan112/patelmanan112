@@ -1,132 +1,140 @@
 <div align="center">
 
-<!-- Animated header with wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:a855f7,100:6366f1&height=200&section=header&text=Manan+Patel&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=frontend%20developer%20%E2%9C%A6%20pixel%20poet&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Manan%20Patel&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Frontend%20Developer%20%E2%80%94%20Crafting%20Digital%20Experiences&descAlignY=62&descSize=16&fontStyle=bold" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=D946EF&center=true&vCenter=true&width=600&lines=crafting+beautiful+interfaces+%E2%9C%A8;turning+ideas+into+visual+stories+%F0%9F%8E%A8;where+code+meets+creativity+%F0%9F%8C%B8" alt="Typing SVG" />
-</a>
+</div>
 
-<br/>
+<div align="center">
 
-<!-- Artistic divider -->
-```
-  ◈ ─────────────────────────────── ◈
-```
-
-## 👨‍💻 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### Hi, I'm Manan 👋
-
-A **Frontend Developer** based in India 🇮🇳 who turns caffeine  
-and creativity into beautiful, functional web experiences.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+interfaces+that+feel+as+good+as+they+look+%E2%9C%A8;React+%7C+Next.js+%7C+TypeScript+%7C+Three.js+%7C+GSAP;Open+to+collaborate+on+ambitious+frontend+projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
-🎨 &nbsp; I craft **interfaces** that users *feel*, not just click  
-⚡ &nbsp; I obsess over **performance**, **accessibility** & **clean code**  
-🧠 &nbsp; I think in **components**, dream in **design systems**  
-🌱 &nbsp; Currently diving deep into **Three.js** & **Web Animations**  
-🎯 &nbsp; Always chasing that perfect **pixel-to-purpose** ratio  
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-patelmanan112.dev-7C3AED?style=flat-square&labelColor=1a1a2e)](https://patelmanan112.dev)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manan%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/patelmanan112)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@patelmanan112-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/patelmanan112)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-manan01127-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/manan01127/)
+&nbsp;
+[![Dribbble](https://img.shields.io/badge/Dribbble-patelmanan112-EA4C89?style=flat-square&logo=dribbble&logoColor=white&labelColor=EA4C89)](https://dribbble.com/patelmanan112)
 
-<br/>
+</div>
 
 ---
 
-✦ &nbsp; *"The details are not the details — they make the design."*
+## 👋 About Me
+
+```ts
+const manan = {
+  role      : "Frontend Developer",
+  location  : "India 🇮🇳",
+  focus     : ["UI/UX Engineering", "Design Systems", "Web Animations"],
+  currently : "Deep-diving into Three.js & advanced WebGL shaders",
+  philosophy: "Great UI should be felt before it's noticed.",
+  openTo    : "Freelance • Collabs • Open Source",
+};
+```
+
+- 🎨 &nbsp; I design **with code** — performance and aesthetics are never a trade-off
+- ⚡ &nbsp; Obsessed with **micro-interactions**, **component architecture** and **clean APIs**
+- 🧩 &nbsp; I think in **systems**: tokens, scales, patterns, and intentional constraints
+- 🌱 &nbsp; Learning: **Three.js**, **WebGL**, **Web Animations API**
+- 💬 &nbsp; Ask me about **React**, **Next.js**, **Tailwind**, **Framer Motion**, or **GSAP**
 
 ---
 
-<!-- Tech stack section -->
-### ✦ tools of the craft ✦
+## 🛠️ Tech Stack
 
-<br/>
+### Core Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
-<br/>
+### Animation & 3D
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Design & Tooling
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<br/>
+---
 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+## 📊 GitHub Analytics
 
-<br/>
+<div align="center">
 
-```
-  ◈ ─────────────────────────────── ◈
-```
-
-### ✦ github canvas ✦
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patelmanan112&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=d946ef&icon_color=a855f7&text_color=e2e8f0&ring_color=6366f1&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmanan112&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=d946ef&text_color=e2e8f0&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patelmanan112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmanan112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=patelmanan112&theme=radical&hide_border=true&background=0d0d0d&ring=d946ef&fire=a855f7&currStreakLabel=6366f1" />
+<img src="https://streak-stats.demolab.com/?user=patelmanan112&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e" />
 
 <br/><br/>
 
-<!-- GitHub activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelmanan112&theme=redical&bg_color=0d0d0d&color=d946ef&line=a855f7&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelmanan112&theme=tokyo-night&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&hide_border=true&area=true&area_color=7C3AED" />
+
+</div>
+
+---
+
+## 🧩 LeetCode Progress
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/manan01127?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/manan01127/)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=patelmanan112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💡 A Principle I Code By
+
+<div align="center">
+
+> *"The details are not the details — they make the design."*
+> &nbsp; — Charles Eames
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=patelmanan112&color=7C3AED&style=flat-square&label=Profile+Views)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/patelmanan112?label=Followers&style=flat-square&color=7C3AED&labelColor=1a1a2e)](https://github.com/patelmanan112)
 
 <br/>
 
-```
-  ◈ ─────────────────────────────── ◈
-```
-
-### ✦ leetcode grind ✦
+*Thanks for visiting — let's build something extraordinary together.*
 
 <br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/manan01127?theme=dark&font=Playfair%20Display&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/manan01127/)
-
-<br/>
-
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-manan01127-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manan01127/)
-
-<br/>
-
-```
-  ◈ ─────────────────────────────── ◈
-```
-
-### ✦ find me in the wild ✦
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23d946ef?style=for-the-badge&logo=sparkles&logoColor=white)](https://patelmanan112.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/patelmanan112)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patelmanan112)
-[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/patelmanan112)
-[![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/patelmanan112)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manan01127/)
-
-<br/>
-
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=patelmanan112&color=d946ef&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-<!-- Closing wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ff6ec7&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
