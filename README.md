@@ -16,7 +16,7 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-manan01127-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/manan01127/)
 &nbsp;
-[![Resume](https://img.shields.io/badge/%F0%9F%8C%90%20Resume-Manan%20Patel-7C3AED?style=flat-square&labelColor=1a1a2e)](https://manan-patel-portfolio.vercel.app/)
+[![Resume](https://img.shields.io/badge/%F0%9F%8C%90%20Resume-Manan%20Patel-7C3AED?style=flat-square&labelColor=1a1a2e)](https://drive.google.com/file/d/1ezSxJ7gKE5N-FZ5Xa8tuOqBPK4AU1qJx/view)
 
 </div>
 
