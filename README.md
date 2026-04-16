@@ -16,9 +16,7 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-manan01127-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/manan01127/)
 &nbsp;
-[![Dribbble](https://img.shields.io/badge/Dribbble-patelmanan112-EA4C89?style=flat-square&logo=dribbble&logoColor=white&labelColor=EA4C89)](https://dribbble.com/patelmanan112)
-&nbsp;
-[![CodePen](https://img.shields.io/badge/CodePen-patelmanan112-000000?style=flat-square&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/patelmanan112)
+
 
 </div>
 
