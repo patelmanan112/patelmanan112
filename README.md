@@ -116,56 +116,7 @@ const manan = {
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patelmanan112/patelmanan112/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patelmanan112/patelmanan112/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/patelmanan112/patelmanan112/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<details>
-<summary>⚙️ <b>Click here — How to activate the snake animation</b></summary>
-<br/>
-
-**Step 1** — In your profile repo `patelmanan112/patelmanan112`, create this file:
-`.github/workflows/snake.yml`
-
-**Step 2** — Paste this inside:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: patelmanan112
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3** — Go to **Actions tab → Generate Snake → Run workflow** ✅
-
-The snake will now auto-generate every day at midnight!
-
-</details>
+![Snake animation](https://github.com/patelmanan112/patelmanan112/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
